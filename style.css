@@ -1,0 +1,16 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: #000;
+}
+
+#video-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.video-frame {
+    width: 100vw;
+    height: 100vh;
+}
